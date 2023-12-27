@@ -1,4 +1,4 @@
-#Proje 2 - Merge Sort
+# Proje 2 - Merge Sort
 
 Merge Sort for [16,21,11,8,12,22]
 
